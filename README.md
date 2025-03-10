@@ -9,13 +9,13 @@
 
 - 🧑‍💻 I’m currently working on [my new Website](https://robin-ahn.de)
 
-- 📚 I’m currently learning **Kubernetes**
+- 📚 I’m currently learning **Python, Flask and MongoDB**
 
-- 🤝 I’m looking for help with **Docker, Kubernetes,...**
+- 🤝 I’m looking for help with **Docker, Kubernetes, Rust and MySQL**
 
-- 📊 All of my projects are available at [github.com/robin-ahn-dev](https://github.com/robin-ahn-dev)
+- 📊 All of my projects are available at [github/robin-ahn-dev](https://github.com/robin-ahn-dev?tab=repositories)
 
-- 💬 Ask me about **react, tailwind, web things**
+- 💬 Ask me about **React, TailwindCss and Vite**
 
 - 📫 You can reach me at **robin.ahn.dev@gmail.com**
 
@@ -25,9 +25,9 @@
 <h2>Connect with me:</h2>
 <p align="left">
 
-<a href="https://instagram.com/robinahn_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flobin_design" height="30" width="40" /></a>
+<a href="https://instagram.com/robin_ahn_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flobin_design" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/robin-ahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flobin" height="30" width="40" /></a>
-<a href="https://codepen.io/robinahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="flobin" height="30" width="40" /></a>
+<a href="https://codepen.io/robin-ahn-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="flobin" height="30" width="40" /></a>
 </p>
 
 
