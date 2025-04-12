@@ -11,7 +11,7 @@
 
 - 📚 I’m currently learning **Python, Flask and MongoDB**
 
-- 🤝 I’m looking for help with **Docker, Kubernetes, Rust and MySQL**
+- 🤝 I’m looking for help with **Docker, Kubernetes and Rust**
 
 - 📊 All of my projects are available at [github/robin-ahn-dev](https://github.com/robin-ahn-dev?tab=repositories)
 
